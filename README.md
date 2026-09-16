@@ -1,11 +1,10 @@
 # Hi, I'm Elhoussaine 👋
 
-AI Developer and Mentor passionate about Machine Learning, Large Language Models, and Open-Source software.
-
+AI / ML Engineer and Mentor passionate about Machine Learning, Large Language Models, and Open-Source software.
 ---
 
 ### 🧠 Mentorship & Community
-- **AI Mentor @ [HackAI Morocco](https://github.com/11337-Artificial-Intelligence/HackAI-Challenges-2026):** Guided participants through hands-on challenges in machine learning, LLMs, and computer vision.
+- **AI Mentor @ [HackAI Morocco 2026](https://github.com/1337-Artificial-Intelligence/HackAI-Challenges-2026):** Guided participants through hands-on challenges in machine learning, LLMs, and computer vision.
 - **Open to Guidance:** Happy to help anyone starting out in AI/ML, computer vision, or software development. Feel free to reach out or explore my repositories!
 
 ---
@@ -19,4 +18,4 @@ AI Developer and Mentor passionate about Machine Learning, Large Language Models
 
 ### 📬 Connect With Me
 - 💬 **Ask me about:** AI model fine-tuning, computer vision, and getting started in tech.
-- 📫 **Reach out:** Connect with me on [LinkedIn](https://linkedin.com) or open an issue/discussion on my repositories.
+- 📫 **Reach out:** Connect with me on [LinkedIn](https://www.linkedin.com/in/elhoussainegangouch) or open an issue/discussion on my repositories.
