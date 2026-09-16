@@ -1,6 +1,6 @@
 # Hi, I'm Elhoussaine 👋
 
-AI / ML Engineer and Mentor passionate about Machine Learning, Large Language Models, and Open-Source software.
+AI / ML Engineer and Mentor passionate about ML, LLM, and Open-Source software.
 ---
 
 ### 🧠 Mentorship & Community
