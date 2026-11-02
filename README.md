@@ -1,21 +1,18 @@
-# Hi, I'm Elhoussaine 👋
+## Hi, I'm Elhoussaine 👋
 
-AI / ML Engineer and Mentor passionate about ML, LLM, and Open-Source software.
----
+**Research Engineer in ML and generative AI.** Creator of SPECTRA, a retrieval-augmented forecasting method that cuts memory 100× and inference time 10× (under review at *Neural Computing and Applications*).
 
-### 🧠 Mentorship & Community
-- **AI Mentor @ [HackAI Morocco 2026](https://github.com/1337-Artificial-Intelligence/HackAI-Challenges-2026):** Guided participants through hands-on challenges in machine learning, LLMs, and computer vision.
-- **Open to Guidance:** Happy to help anyone starting out in AI/ML, computer vision, or software development. Feel free to reach out or explore my repositories!
+🌐 **Portfolio:** https://gangouch1.github.io
+💼 **LinkedIn:** https://www.linkedin.com/in/elhoussainegangouch/
 
----
+### Mentoring and teaching
+- Instructor, Python for Data Science: Data Science Africa, Kampala (2026)
+- Technical mentor and judge: HackAI Morocco (2026), 100+ participants
+- Technical mentor: NASA Space Apps Challenge, UM6P (2025)
 
-### 🛠️ Tech Stack & Focus Areas
-- **Languages:** Python, C++, SQL
-- **AI & ML:** PyTorch, TensorFlow, Computer Vision, LLM Fine-Tuning, RAG
-- **Tools:** Git, Docker, Linux
+### Stack
+- **ML and GenAI:** PyTorch, LLMs, RAG, agentic AI, LangChain, LlamaIndex, Hugging Face
+- **Engineering:** Python, FastAPI, Docker, Git, CI/CD, Qdrant, SQL
 
----
-
-### 📬 Connect With Me
-- 💬 **Ask me about:** AI model fine-tuning, computer vision, and getting started in tech.
-- 📫 **Reach out:** Connect with me on [LinkedIn](https://www.linkedin.com/in/elhoussainegangouch) or open an issue/discussion on my repositories.
+### Open to
+Research engineering roles on teams building efficient, reliable ML. Message me on LinkedIn.
