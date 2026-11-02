@@ -7,7 +7,7 @@
 
 ### Mentoring and teaching
 - Instructor, Python for Data Science: Data Science Africa, Kampala (2026)
-- Technical mentor and judge: HackAI Morocco (2026), 100+ participants
+- Technical mentor: HackAI Morocco (2026), 100+ participants
 - Technical mentor: NASA Space Apps Challenge, UM6P (2025)
 
 ### Stack
