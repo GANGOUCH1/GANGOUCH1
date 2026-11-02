@@ -15,4 +15,4 @@
 - **Engineering:** Python, FastAPI, Docker, Git, CI/CD, Qdrant, SQL
 
 ### Open to
-Research engineering roles on teams building efficient, reliable ML. Message me on LinkedIn.
+Research engineering roles on teams building efficient, reliable ML. Message me on LinkedIn & email.
